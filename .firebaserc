@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "macfast-8c349": {
+      "hosting": {
+        "Firebase": [
+          "macfast-8c349"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "macfast-8c349"
+  }
+}
