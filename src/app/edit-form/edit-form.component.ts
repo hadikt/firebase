@@ -41,7 +41,7 @@ updateProduct(){
   let id = localStorage.getItem('doc_id')
   this.hero.updateProduct(id,product).then((res)=>{
     console.log(res);
-    alert("data updated successfully")
+    alert("data updated successfull")
     this.productForm.reset();
       this.router.navigate([''])
   })
